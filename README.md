@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bexruz
 - 👀 I’m interested in coding 💻
 
-- My Skills 🎇: 
+- My Skills 🎇: <br>
     <strong>Programming language:</strong> Python, C# .Net;
     <strong>Data Base:</strong> MySQL, PostgreSQL, Excel Table, Google Table, Json, SQLite;
     <strong>Additional skills:</strong> Visual Sutdio WinForms, Git
