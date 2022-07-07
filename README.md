@@ -1,3 +1,10 @@
+# Software Developer
+
+<div align="center">
+    <img src="https://www.osp.ru/FileStorage/DOCUMENTS_ILLUSTRATIONS/13237083/original.jpg" width="250"> <br/>
+    <a href="https://t.me/Sf_dev01"> <img src="https://img.shields.io/badge/Telegram-blue" width="100"> </a>
+</div>
+
 - 👋 Hi, I’m Bexruz
 - 👀 I’m interested in coding 💻
 
